@@ -1,0 +1,3 @@
+interface res {
+  send(...arr)
+}
